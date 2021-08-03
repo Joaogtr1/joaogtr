@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@600;800&family=Squada+One&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@800&display=swap');
+
+body {
+    background-color: #1b1717;
+    margin: 0;
+
+}
+
+.titulosite {
+    background-color: #1b1717;
+    color: black;
+    padding: 50px;
+    text-align: center;
+    font-family: "Trebuchet Ms", Arial, sans-serif;
+}
+
+.barranav {
+    overflow: hidden;
+    background-color: #810000;
+}
+
+.barranav a {
+    float: left;
+    display: block;
+    color: #dbe2ef;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Squada One', cursive;
+    font-size: 18px;
+}
+
+.shark {
+    background-color: #eeebdd;
+    color: #810000;
+    border: 5px solid #810000;
+    font-family: 'Squada One', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+h1{
+    color: #ce1212;
+    font-family:'Merriweather Sans', sans-serif;
+    text-align: center;
+    padding: 20px;
+    
+    
+    
+}
+
+img {
+    margin: 10px 
+}
+h2 {
+    color: #810000;
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: none;
+    margin: 0px 0px 0px 100px;
+   
+}
+
+p {
+    color: gray;
+    font-family: 'Mukta', sans-serif;
+   margin: 60px;
+   text-align: justify;
+    
+}
+
+a{
+ color:#eeebdd;
+ background-color:#810000;
+ border:#810000;
+ padding: 10px;
+ font-family: 'Merriweather Sans', sans-serif;
+ font-size: 15px;
+ text-align:left;
+ margin: auto;
+ max-width: 700px;
+ text-decoration: none;
+}
+a:link {
+ color:#eeebdd;
+
+}
+a:hover {
+ color: black;
+}
+a:active {
+ color: red;
+}
+
+.gtr2 {
+ float:right;
+ margin: 10px 100px
+}
+
+ul {
+ list-style-type: none;
+ 
+}
+
+li {
+ display: inline;
+ color: #810000;
+    background-color: #eeebdd;
+    border: 6px solid #810000;
+    font-family: 'Squada One', cursive;
+   
+    padding: 6px
+}
+
+li a {
+    display: inline;
+    padding: 6px 16px;
+    text-decoration: none;
+    font-family: 'Squada One', cursive;
+    
+}
+
+li a:hover {
+    background-color: #000;
+    color: white;
+}
+
+
+.ok{
+ margin: 0px 0px 20px 150px;
+}
+
+.gtr50 {
+ float:left;
+ margin: 50px
+}
+
+.gtr {
+ float: left;
+ margin: 50px
+
+}
+
+.godzilla {
+ text-align: right;
+ margin: 50px
+}
+
+
+.rodape {
+    background-color: #810000;
+    padding: 8px;
+    font-family: 'Squada One', cursive;
+    font-size: 14px;
+    clear:both;
+    text-align: center;
+}  
+
+.copy {
+    color: #eeebdd;
+    text-align: center;
+}
